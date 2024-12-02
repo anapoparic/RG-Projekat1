@@ -1,0 +1,4 @@
+D:\FAKULTET\4. godina\SEMESTAR 7\Racunarska Grafika\Projekat 1\submarine\x64\Debug\glew32.dll
+D:\FAKULTET\4. godina\SEMESTAR 7\Racunarska Grafika\Projekat 1\submarine\submarine\x64\Debug\submarine.vcxproj.Up2Date
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\x64\Debug\glew32.dll
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\x64\Debug\submarine.vcxproj.Up2Date

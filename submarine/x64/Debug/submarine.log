@@ -1,0 +1,20 @@
+﻿  submarine.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(28,9): warning C4005: 'M_PI': macro redefinition
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(146,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(197,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(277,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(324,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(350,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(527,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(587,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(659,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(705,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(735,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(736,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(740,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(752,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(769,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\Desktop\P1_sv_74_2021\submarine\submarine.cpp(907,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  submarine.vcxproj -> C:\Users\Korisnik\Desktop\P1_sv_74_2021\x64\Debug\submarine.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
